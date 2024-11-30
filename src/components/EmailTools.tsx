@@ -32,12 +32,6 @@ export function EmailTools() {
       description: "All-in-one marketing platform for agencies",
       image: "https://assets.gohighlevel.com/logo/dark.svg",
       features: ["CRM integration", "White-label", "Multi-location"]
-    },
-    {
-      name: "Systeme.io",
-      description: "All-in-one marketing platform for agencies",
-      image: "https://assets.gohighlevel.com/logo/dark.svg",
-      features: ["CRM integration", "White-label", "Multi-location"]
     }
   ];
 

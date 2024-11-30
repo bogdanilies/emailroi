@@ -11,7 +11,7 @@ export function Header() {
               <Mail className="w-6 h-6 text-blue-600" />
               <Calculator className="w-6 h-6 text-purple-600" />
             </div>
-            <span className="text-white font-bold text-xl">EmailROI</span>
+            <span className="text-white font-bold text-xl">Email ROI</span>
           </div>
           <div className="flex gap-4">
             <a href="#calculator" className="text-white hover:text-blue-100">Calculator</a>
@@ -23,7 +23,7 @@ export function Header() {
       </nav>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-          Email Marketing ROI Calculator
+          Email ROI Calculator
         </h1>
         <p className="text-xl text-blue-100 max-w-2xl mx-auto">
           Maximize your email marketing returns with our advanced ROI calculator. Make data-driven decisions for your campaigns.
