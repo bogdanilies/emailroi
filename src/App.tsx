@@ -35,7 +35,7 @@ function App() {
             <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="p-8 bg-gradient-to-br from-[#FFCC1D]/10 to-[#FFB800]/10">
-                  <h2 className="text-2xl font-bold mb-6">Calculate Your Email Marketing ROI</h2>
+                  <h2 className="text-2xl font-bold mb-6">Calculate Your Email ROI</h2>
                   <EcommerceCalculator values={values} onChange={handleValueChange} />
                 </div>
 
