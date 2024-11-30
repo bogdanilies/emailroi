@@ -18,19 +18,19 @@ export function EmailTools() {
     {
       name: "Active Campaign",
       description: "Ideal for businesses needing advanced automation",
-      image: "https://www.activecampaign.com/wp-content/uploads/2019/12/activecampaign-logo-full.svg",
+      image: "https://www.activecampaign.com/wp-content/uploads/2021/07/logo-white.svg",
       features: ["Marketing automation", "CRM integration", "Sales automation"]
     },
     {
       name: "MailerLite",
       description: "Great for beginners and small businesses",
-      image: "https://www.mailerlite.com/assets/logos/mailerlite.svg",
+      image: "https://www.sumydesigns.com/wp-content/uploads/2020/02/mailerlite-review-920x340.png",
       features: ["User-friendly", "Affordable", "Landing pages"]
     },
     {
       name: "GoHighLevel",
       description: "All-in-one marketing platform for agencies",
-      image: "https://assets.gohighlevel.com/logo/dark.svg",
+      image: "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48175265495/original/PTXBCP40UHx-8LCKsM1zqLX-pq8nndFHSw.png?1641235482",
       features: ["CRM integration", "White-label", "Multi-location"]
     }
   ];
