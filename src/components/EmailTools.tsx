@@ -6,7 +6,7 @@ export function EmailTools() {
     {
       name: "Klaviyo",
       description: "Best for ecommerce businesses with advanced segmentation needs",
-      image: "https://cdn.klaviyo.com/assets/klaviyo-logo-black.svg",
+      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloud-awards.com%2Fklaviyo-logo%2F&psig=AOvVaw2OSNk7AgHgXshz7Q9VkiyG&ust=1733062020065000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODHp6KdhIoDFQAAAAAdAAAAABAE",
       features: ["Advanced segmentation", "Predictive analytics", "Multi-channel marketing"]
     },
     {
