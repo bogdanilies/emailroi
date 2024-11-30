@@ -6,13 +6,13 @@ export function EmailTools() {
     {
       name: "Klaviyo",
       description: "Best for ecommerce businesses with advanced segmentation needs",
-      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloud-awards.com%2Fklaviyo-logo%2F&psig=AOvVaw2OSNk7AgHgXshz7Q9VkiyG&ust=1733062020065000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODHp6KdhIoDFQAAAAAdAAAAABAE",
+      image: "https://www.cloud-awards.com/wp-content/uploads/2023/06/klaviyo-logo.png",
       features: ["Advanced segmentation", "Predictive analytics", "Multi-channel marketing"]
     },
     {
       name: "Omnisend",
       description: "Perfect for omnichannel marketing automation",
-      image: "https://www.omnisend.com/wp-content/themes/omnisend/img/omnisend-logo.svg",
+      image: "https://www.omnisend.com/wp-content/themes/omnisend-v2/assets/img/omnisend_logo_dark.svg",
       features: ["SMS marketing", "Easy automation", "Pop-ups & forms"]
     },
     {
