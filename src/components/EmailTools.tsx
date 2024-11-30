@@ -24,7 +24,7 @@ export function EmailTools() {
     {
       name: "MailerLite",
       description: "Great for beginners and small businesses",
-      image: "https://www.sumydesigns.com/wp-content/uploads/2020/02/mailerlite-review-920x340.png",
+      image: "https://www.sumydesigns.com/wp-content/uploads/2020/02/mailerlite-review.png",
       features: ["User-friendly", "Affordable", "Landing pages"]
     },
     {
